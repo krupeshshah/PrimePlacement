@@ -912,8 +912,8 @@ h5.dummyTx{
 .befiSec::after{
   content: '';
   width: 100%;
-  background-color: #f2f6fa;
-  background-image: url(images/line_back.png);
+  background-color: #e0e0e0;
+  /* background-image: url(images/line_back.png); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1690,7 +1690,7 @@ ul.misList li::before{
 }
 .teamSec::after{
 content: '';
-background-color: var(--backColor);
+background-color: #e0e0e0;
 position: absolute;
 top: -30%;
 left: 0;
