@@ -43,6 +43,7 @@ font-family: 'Poppins', sans-serif;
   --paraColor: #5c5e62;
   --btnColor: #0eb8d9;
   --secondColor: #0eb8d9;  
+  --thirdColor: #39bb43;  
   --backColor:#f2f6fa;
   --mainFont:'Open Sans', sans-serif;
   --inter: 'Inter', sans-serif;
@@ -887,7 +888,7 @@ h5.dummyTx{
   text-transform: uppercase;
 }
 .bannerSec .lftTx h1 span{
-  color: var(--secondColor);
+  color: var(--thirdColor);
   text-transform: capitalize;    
   display: block;
 }
