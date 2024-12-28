@@ -1163,7 +1163,7 @@ h5.dummyTx{
   z-index: 1;
   min-height: 36rem;
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: center;
   padding: 2rem;
   background-color: #0fbad9;
